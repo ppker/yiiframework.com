@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7979c6897e95bf21191c91a77fcfd8e3",
+    "content-hash": "aa079e58a6dff96545787fa0110377bd",
     "packages": [
         {
             "name": "2amigos/yii2-selectize-widget",
@@ -384,16 +384,16 @@
         },
         {
             "name": "bower-asset/codemirror",
-            "version": "5.9.0",
+            "version": "5.65.5",
             "source": {
                 "type": "git",
-                "url": "https://github.com/components/codemirror.git",
-                "reference": "ec73f71ee6d04cc5c257f098bfcf693460be1866"
+                "url": "git@github.com:components/codemirror.git",
+                "reference": "32d5d209be72d861befd706957bc96fc3f52df9d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/components/codemirror/zipball/ec73f71ee6d04cc5c257f098bfcf693460be1866",
-                "reference": "ec73f71ee6d04cc5c257f098bfcf693460be1866"
+                "url": "https://api.github.com/repos/components/codemirror/zipball/32d5d209be72d861befd706957bc96fc3f52df9d",
+                "reference": "32d5d209be72d861befd706957bc96fc3f52df9d"
             },
             "type": "bower-asset"
         },
@@ -7875,5 +7875,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
